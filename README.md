@@ -33,7 +33,6 @@ Play - **EA Play Season Pass Price** --- Valor do adicional -
 Season Pass Price** --- Valor do adicional - **Coupon Value** ---
 Desconto aplicado - **Total Value** --- Valor final pago
 
-👉 Esta é a **fonte única de dados** da análise.
 
 ------------------------------------------------------------------------
 
